@@ -1,4 +1,4 @@
-# super-rentals
+# app-emberjs
 ![N|Solid](https://webtoolfeed.files.wordpress.com/2012/10/games1.jpg)
 
 app/emberjs/
